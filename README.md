@@ -70,3 +70,8 @@ Actua como un Diseñador grafico. Necesito desarrollar un anuncio publicitario p
 ```
 
 ![](https://www.estudioec.com/wp-content/uploads/2021/05/funciones-principales-disenador-grafico-web-688.jpg)
+
+
+# Infografia NootBookLM:
+
+![](https://github.com/SientHidden/firts-repository/blob/main/Protecci%C3%B3n_de_Correo_Electr%C3%B3nico.png)
