@@ -38,7 +38,7 @@ Eres un jugador de nivel profesional en basketball. Quiero que me des tips y rut
 - **Contexto**: Soy un estudiante de 15 años el cual tiene que exponer sobre el tema de biologia: la celula
 - **Formato:** Que sea una fabula de almenos 100 palabras sencillas y facile de comprender puede ser con informacion de libros etc
 
-```
+```text
 Eres un profesor y un biologo experto. Necesito que me ayudes a realizar un "ensayo" que sea como un cuento para exponer a unos niños de primaria, Soy un estudiante de 15 años y el tema a exponer es sobre la celula. Quiero que sea una fabula con almenos 100 palabras sencillas que se le facilite entender a los niños
 ```
 ![](https://www.abc.com.py/resizer/v2/PQFD2SXFHNCAJGHFTLAYCALB4E.jpg?auth=418be9442aa0e27e6f021c77902ff6ed39a7342e8b88884daeb977b33e3bdcad&width=770&smart=true)
@@ -51,7 +51,7 @@ Eres un profesor y un biologo experto. Necesito que me ayudes a realizar un "ens
 - **Contexto**: Soy un estudiante de 15 años que quiere ser un veterinario de grande y ayudar a los animales
 - **Formato**: Quiero que me enseñes de manera sencilla como tomar datos de salud de un animal con los objetos necesarios
 
-```
+```text
 Actua como un veterinario experimentado. Quiero poder realizar estudios medicos de salud a animales como gatos o perros, soy un joven de 15 años que quiere ser medico. Necesito que me expliques paso a paso como recopilar datos y almacenarlos al hacer muestras y que elementos necesito
 ```
 ![](https://nupec.com/wp-content/uploads/2022/09/vet-and-his-patient-2021-09-24-03-30-50-utc-min.jpg)
@@ -65,7 +65,7 @@ Actua como un veterinario experimentado. Quiero poder realizar estudios medicos 
 
 
 
-```
+```text
 Actua como un Diseñador grafico. Necesito desarrollar un anuncio publicitario para mi nueva marca de zapatos, quiero que me ayudes usando la IA para crear un prompt y presentarselo a una IA especializada en desarrollo de imagines y videos
 ```
 
